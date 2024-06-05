@@ -10,6 +10,7 @@ Let us now look at the problems that I faced while developing this project and h
 "Problem 1" :  AI model, that could help me generate images based on prompts
 "addressing it" : Since this is my first attempt at a project like this, I thought of using a pretrained model so that I wouldn't have to undergo the hassle, from collecting and building data sets to training the model. Using a pretrained model made my job much easier. Initially, I thought of using Dall-E, by OpenAI, and after building about half the project using Tkinter, did I realise that I need to pay to make use of this model :(... Hence, I switched to using Stable Diffusion, which is practically, FREE!
 
+
 "Problem 2" : Lack of GPU
 "addressing it" : My computer is a simple student computer, nothing fancy. This machine, doesn't have a GPU. Hence, I needed to make use of any makeshift system that could provide me with GPU. And since I was comfortable with using Google Colab, I went ahead with the T4 GPU runtime in colab. 
 
