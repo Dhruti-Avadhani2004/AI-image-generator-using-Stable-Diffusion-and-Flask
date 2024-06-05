@@ -19,3 +19,15 @@ Let us now look at the problems that I faced while developing this project and h
 
 <br>
 After a lot of trial and errors, I was finally able to make this application. You can find all the required resources and code, so that you too can build this project!
+<br>
+
+<h3>Navigating the Files</h3>
+All the files required to develop the project have been uploaded in this very repository. Here is a brief description about each file.
+
+1. app.py : This is the main application file containing the code to develop the Flask application
+2. templates/index.html : This is a html file to help give structure to the Flask application that we built
+3. static/styles.css : This is a very simple file, with subtle styling, nothing fancy, just to give the frontend a little structure
+4. Stable_Diffusion.ipynb : This is code from the colab notebook. This is the main code that helps generate AI images based on prompts. You can also view the colab notebook by following this link - https://colab.research.google.com/drive/1Q14SAvbi26TCr4J9BRCtlvZ9qqvKLBtE?usp=sharing
+
+<h3>Conclusion</h3>
+Following all the steps, I was able to successfully develop this AI image generator. I hope this project serves as a helpful guide and inspiration for your own AI endeavors.
